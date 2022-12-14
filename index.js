@@ -1,9 +1,9 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generateHTML = require('./utils/generateHTML.js');
-const Manager = require('./lib/manager.js');
-const Engineer = require('./lib/engineer.js');
-const Intern = require('./lib/intern.js');
+const generateHTML = require('./src/utils/generateHTML.js');
+const Manager = require('./src/lib/manager.js');
+const Engineer = require('./src/lib/engineer.js');
+const Intern = require('./src/lib/intern.js');
 
 const employees = [];
 

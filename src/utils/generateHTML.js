@@ -13,12 +13,12 @@ const generateHTML = (employees) => {
     HTML.push(
         employees
         .filter((employee) => employee.getRole() === 'Engineer')
-        .map((engineer) => renderManager(engineer))
+        .map((engineer) => renderEngineer(engineer))
     );
     HTML.push(
         employees
         .filter((employee) => employee.getRole() === 'Intern')
-        .map((intern) => renderManager(intern))
+        .map((intern) => renderIntern(intern))
     );
 
     return renderFullMarkdown(HTML.join(''));
