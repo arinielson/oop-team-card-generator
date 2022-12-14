@@ -38,13 +38,13 @@ THEN I exit the application, and the HTML is generated
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
-![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./assets/10-object-oriented-programming-homework-demo.png)
+![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./assets/oop-homework-example.jpg)
 
 ## Links
 
 GitHub: https://github.com/arinielson/oop-team-card-generator
 
-Website:
+Video: https://drive.google.com/file/d/1WB03jNsHu-PF0MVDCjHoOS1fBHler0e3/view
 
 ## Credits
 
