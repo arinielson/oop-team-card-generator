@@ -1,0 +1,26 @@
+{
+    "name": "oop-team-card-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "test": "jest",
+      "start": "node index.js",
+      "sass": "sass --watch ./dist/assets/css/scss/style.scss ./dist/assets/css/style.css --style compressed"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/arinielson/oop-team-card-generator"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/arinielson/oop-team-card-generator/issues"
+    },
+    "homepage": "https://github.com/arinielson/oop-team-card-generator#readme",
+    "dependencies": {
+      "inquirer": "^8.2.4",
+      "jest": "^29.3.1",
+      "sass": "^1.56.1"
+    }
+  }
