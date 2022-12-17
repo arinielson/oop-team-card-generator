@@ -48,7 +48,7 @@ Video: https://drive.google.com/file/d/1WB03jNsHu-PF0MVDCjHoOS1fBHler0e3/view
 
 ## Credits
 
-University of Utah Cosing Bootcamp
+University of Utah Coding Bootcamp
 
 ## License
 
